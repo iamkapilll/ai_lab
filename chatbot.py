@@ -1,4 +1,4 @@
-# simple_chatbot.py
+# simple chatbot by using python :::
 
 def chatbot_response(user_input):
     user_input = user_input.lower()
